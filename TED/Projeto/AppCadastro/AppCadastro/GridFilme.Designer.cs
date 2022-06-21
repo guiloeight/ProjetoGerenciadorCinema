@@ -128,6 +128,7 @@
             this.DoubleBuffered = true;
             this.Name = "GridFilme";
             this.Text = "Consulta Filme";
+            this.Load += new System.EventHandler(this.GridFilme_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dvgfilme)).EndInit();
             this.ResumeLayout(false);
 

@@ -22,7 +22,7 @@ namespace AppCadastro
             InitializeComponent();
             try
             {
-                pblCnx.ConnectionString = "Server=localhost;Database=bdcadastro;user=root;pwd=";
+                pblCnx.ConnectionString = "Server=localhost;Database=bdcadastro;user=root;pwd=password";
                 pblCnx.Open();
                 btnConsultar_Click();
 
@@ -62,6 +62,11 @@ namespace AppCadastro
         }
 
         private void dvgfilme_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void GridFilme_Load(object sender, EventArgs e)
         {
 
         }

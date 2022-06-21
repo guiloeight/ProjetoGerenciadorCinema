@@ -79,6 +79,7 @@
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
             this.toolStripMenuItem1.Size = new System.Drawing.Size(77, 21);
             this.toolStripMenuItem1.Text = "Cadastrar";
+            this.toolStripMenuItem1.Click += new System.EventHandler(this.toolStripMenuItem1_Click);
             // 
             // toolStripMenuItem2
             // 
@@ -87,7 +88,7 @@
             this.toolStripMenuItem2.Image = global::AppCadastro.Properties.Resources.user_add_icon;
             this.toolStripMenuItem2.ImageTransparentColor = System.Drawing.Color.Chocolate;
             this.toolStripMenuItem2.Name = "toolStripMenuItem2";
-            this.toolStripMenuItem2.Size = new System.Drawing.Size(121, 22);
+            this.toolStripMenuItem2.Size = new System.Drawing.Size(152, 22);
             this.toolStripMenuItem2.Text = "Usuario";
             this.toolStripMenuItem2.Click += new System.EventHandler(this.toolStripMenuItem2_Click);
             // 
@@ -98,7 +99,7 @@
             this.toolStripMenuItem3.Image = global::AppCadastro.Properties.Resources.Actions_contact_new_icon;
             this.toolStripMenuItem3.ImageTransparentColor = System.Drawing.Color.Chocolate;
             this.toolStripMenuItem3.Name = "toolStripMenuItem3";
-            this.toolStripMenuItem3.Size = new System.Drawing.Size(121, 22);
+            this.toolStripMenuItem3.Size = new System.Drawing.Size(152, 22);
             this.toolStripMenuItem3.Text = "Cliente";
             this.toolStripMenuItem3.Click += new System.EventHandler(this.toolStripMenuItem3_Click);
             // 
@@ -209,6 +210,7 @@
             this.tooladm1.Size = new System.Drawing.Size(55, 413);
             this.tooladm1.TabIndex = 1;
             this.tooladm1.Text = "toolStrip1";
+            this.tooladm1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.tooladm1_ItemClicked);
             // 
             // label1
             // 
@@ -243,6 +245,7 @@
             this.Controls.Add(this.pcbVenda);
             this.Controls.Add(this.tooladm1);
             this.Controls.Add(this.menuStrip1);
+            this.DoubleBuffered = true;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "frmMenucs";

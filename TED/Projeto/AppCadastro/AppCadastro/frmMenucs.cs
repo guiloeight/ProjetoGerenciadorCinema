@@ -116,9 +116,14 @@ namespace AppCadastro
             Cliente.ShowDialog();
         }
 
-      
+        private void toolStripMenuItem1_Click(object sender, EventArgs e)
+        {
 
-        
+        }
 
+        private void tooladm1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
     }
 }

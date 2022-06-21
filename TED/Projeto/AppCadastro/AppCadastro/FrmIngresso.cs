@@ -33,7 +33,7 @@ namespace AppCadastro
             InitializeComponent();
             try
             {
-                pblCnx.ConnectionString = "Server=localhost;Database=bdcadastro;user=root;pwd=root";
+                pblCnx.ConnectionString = "Server=localhost;Database=bdcadastro;user=root;pwd=password";
                 pblCnx.Open();
 
             }

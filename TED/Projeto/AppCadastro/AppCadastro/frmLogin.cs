@@ -207,7 +207,7 @@ namespace AppCadastro
         {
             try
             {
-                pblCnx.ConnectionString = "Server=localhost;Database=bdCadastro;user=root;pwd=root";
+                pblCnx.ConnectionString = "Server=localhost;Database=bdCadastro;user=root;pwd=password";
                 pblCnx.Open();
 
                 CarregarVetores();

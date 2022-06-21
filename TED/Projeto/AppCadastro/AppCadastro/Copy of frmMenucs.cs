@@ -23,7 +23,7 @@ namespace AppCadastro
             InitializeComponent();
             try
             {
-                pblCnx.ConnectionString = "Server=localhost;Database=bdcadastro;user=root;pwd=root";
+                pblCnx.ConnectionString = "Server=localhost;Database=bdcadastro;user=root;pwd=password";
                 pblCnx.Open();
 
             }
@@ -113,7 +113,7 @@ namespace AppCadastro
                 string strSql = "Select * From tblcontas ";
                 pblCmd.Connection = pblCnx;
                 pblCmd.CommandText = strSql;
-                pblDados = pblCmd.ExecuteReader();
+               pblDados = pblCmd.ExecuteReader();
                 if (pblDados.HasRows)
                 {
                     while (pblDados.Read())
