@@ -1,0 +1,515 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0DCBB495-4558-4290-9AFE-846DF810C625}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AppCadastro</RootNamespace>
+    <AssemblyName>AppCadastro</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.5.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.5\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.14.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Protobuf.3.14.0\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.1.2.6\lib\net46\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.Streams.1.2.6\lib\net46\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.6.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Hash.xxHash.1.0.6\lib\net46\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=8.0.28.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.28\lib\net48\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlServerCe, Version=3.5.1.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft SQL Server Compact Edition\v3.5\Desktop\System.Data.SqlServerCe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.5.0.0\lib\net45\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Ubiety.Dns.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.28\lib\net48\Ubiety.Dns.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="ZstdNet, Version=1.4.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.28\lib\net48\ZstdNet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddFilme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddFilme.designer.cs">
+      <DependentUpon>AddFilme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastrofornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastrofornecedor.Designer.cs">
+      <DependentUpon>Cadastrofornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cadastrofuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cadastrofuncionario.Designer.cs">
+      <DependentUpon>cadastrofuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastrosalas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastrosalas.Designer.cs">
+      <DependentUpon>Cadastrosalas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente.Designer.cs">
+      <DependentUpon>Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contas.Designer.cs">
+      <DependentUpon>Contas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Copy of frmMenucs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Copy of frmMenucs.Designer.cs">
+      <DependentUpon>Copy of frmMenucs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastrosessoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastrosessoes.Designer.cs">
+      <DependentUpon>Cadastrosessoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProduto.designer.cs">
+      <DependentUpon>FormProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIngresso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIngresso.Designer.cs">
+      <DependentUpon>FrmIngresso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenucs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenucs.Designer.cs">
+      <DependentUpon>frmMenucs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSplash.Designer.cs">
+      <DependentUpon>FrmSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Grid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grid.Designer.cs">
+      <DependentUpon>Grid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GridFilme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GridFilme.Designer.cs">
+      <DependentUpon>GridFilme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gridfornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gridfornecedor.Designer.cs">
+      <DependentUpon>Gridfornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GridFunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GridFunc.Designer.cs">
+      <DependentUpon>GridFunc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gridsessoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gridsessoes.Designer.cs">
+      <DependentUpon>gridsessoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuario.Designer.cs">
+      <DependentUpon>Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vendadeproduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vendadeproduto.designer.cs">
+      <DependentUpon>vendadeproduto.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddFilme.resx">
+      <DependentUpon>AddFilme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastrofornecedor.resx">
+      <DependentUpon>Cadastrofornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cadastrofuncionario.resx">
+      <DependentUpon>cadastrofuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastrosalas.resx">
+      <DependentUpon>Cadastrosalas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastrosessoes.resx">
+      <DependentUpon>Cadastrosessoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente.resx">
+      <DependentUpon>Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contas.resx">
+      <DependentUpon>Contas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Copy of frmMenucs.resx">
+      <DependentUpon>Copy of frmMenucs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProduto.resx">
+      <DependentUpon>FormProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmIngresso.resx">
+      <DependentUpon>FrmIngresso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenucs.resx">
+      <DependentUpon>frmMenucs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSplash.resx">
+      <DependentUpon>FrmSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grid.resx">
+      <DependentUpon>Grid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GridFilme.resx">
+      <DependentUpon>GridFilme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gridfornecedor.resx">
+      <DependentUpon>Gridfornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GridFunc.resx">
+      <DependentUpon>GridFunc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gridsessoes.resx">
+      <DependentUpon>gridsessoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Usuario.resx">
+      <DependentUpon>Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vendadeproduto.resx">
+      <DependentUpon>vendadeproduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sem título.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marrom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\url.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\movie-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgBranco.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgteste.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jachegaBg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-contact-new-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgBranco1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgteste1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chaplin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChaplinCaricatura.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jachegaBg1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\movie-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\turn off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new-file-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgLogin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\X.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1370296901_usd_dollar_money_cash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sample6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1370296250_cinema.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1370296592_Business_People_01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1370296829_movie.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1370296449_Cinema.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1370297481_Cinema.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1370296126_create-ticket.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1370296626_Emblem-Money-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Money-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sb10067018f-001.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dv1970005.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\92630718.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Money-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1370296449_Cinema1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1370296901_usd_dollar_money_cash1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1370296901_usd_dollar_money_cash2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1370296901_usd_dollar_money_cash3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\financas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\financas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\financas1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\financas2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Money-icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1370296901_usd_dollar_money_cash4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1370304525_truck.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1370304881_US-dollar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1370296126_create-ticket1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1370304881_US-dollar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cash-register-icon3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo61.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1370306693_download-database.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1370297117_18218.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1370307064_Windows Turn Off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sasas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Movie-icon21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Refresh-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

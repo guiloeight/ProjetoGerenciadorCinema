@@ -1,0 +1,581 @@
+P:\3º Módulo\PC II\AppCadastro\AppCadastro\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\3º Módulo\PC II\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmLogin.resources
+P:\3º Módulo\PC II\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Properties.Resources.resources
+P:\3º Módulo\PC II\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.read.1.tlog
+P:\3º Módulo\PC II\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.write.1.tlog
+P:\3º Módulo\PC II\AppCadastro\AppCadastro\bin\Debug\AppCadastro.exe
+P:\3º Módulo\PC II\AppCadastro\AppCadastro\bin\Debug\AppCadastro.pdb
+P:\3º Módulo\PC II\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.exe
+P:\3º Módulo\PC II\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.pdb
+P:\3º Módulo\PC II\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmCliente.resources
+P:\3º Módulo\PC II\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs.resources
+P:\3º Módulo\PC II\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmUsuario0.resources
+P:\3º Módulo\PC II\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Grid.resources
+P:\3º Módulo\PC II\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmIngresso.resources
+P:\3º Módulo\PC II\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs2.resources
+P:\3º Módulo\PC II\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmSplash2.resources
+P:\3º Módulo\PC II\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Form3.resources
+J:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.exe
+J:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.pdb
+J:\PC\AppCadastro\AppCadastro\bin\Debug\AppCadastro.exe
+J:\PC\AppCadastro\AppCadastro\bin\Debug\AppCadastro.pdb
+J:\PC\AppCadastro\AppCadastro\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmCliente.resources
+J:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs2.resources
+J:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Form3.resources
+J:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmLogin.resources
+J:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmIngresso.resources
+J:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs.resources
+J:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmSplash2.resources
+J:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Grid.resources
+J:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Properties.Resources.resources
+J:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmUsuario0.resources
+J:\PC\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\PC\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.exe
+G:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.pdb
+E:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.exe
+E:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.pdb
+G:\PC\AppCadastro\AppCadastro\bin\Debug\AppCadastro.exe
+G:\PC\AppCadastro\AppCadastro\bin\Debug\AppCadastro.pdb
+G:\PC\AppCadastro\AppCadastro\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmCliente.resources
+G:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs2.resources
+G:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Form3.resources
+G:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmLogin.resources
+G:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmIngresso.resources
+G:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs.resources
+G:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmSplash2.resources
+G:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Grid.resources
+G:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Properties.Resources.resources
+G:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmUsuario0.resources
+G:\PC\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\PC\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosalas.resources
+E:\PC\AppCadastro\AppCadastro\bin\Debug\AppCadastro.exe
+E:\PC\AppCadastro\AppCadastro\bin\Debug\AppCadastro.pdb
+E:\PC\AppCadastro\AppCadastro\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosalas.resources
+E:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmCliente.resources
+E:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs2.resources
+E:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Form3.resources
+E:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmLogin.resources
+E:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmIngresso.resources
+E:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs.resources
+E:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmSplash2.resources
+E:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Grid.resources
+E:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Properties.Resources.resources
+E:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmUsuario0.resources
+E:\PC\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PC\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.exe
+D:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.pdb
+D:\PC\AppCadastro\AppCadastro\bin\Debug\AppCadastro.exe
+D:\PC\AppCadastro\AppCadastro\bin\Debug\AppCadastro.pdb
+D:\PC\AppCadastro\AppCadastro\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosalas.resources
+D:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmCliente.resources
+D:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs2.resources
+D:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Form3.resources
+D:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmLogin.resources
+D:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmIngresso.resources
+D:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs.resources
+D:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmSplash2.resources
+D:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Grid.resources
+D:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Properties.Resources.resources
+D:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmUsuario0.resources
+D:\PC\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PC\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.write.1.tlog
+P:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.exe
+P:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.pdb
+P:\PC\AppCadastro\AppCadastro\bin\Debug\AppCadastro.exe
+P:\PC\AppCadastro\AppCadastro\bin\Debug\AppCadastro.pdb
+P:\PC\AppCadastro\AppCadastro\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.AddFilme.resources
+P:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosalas.resources
+P:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmCliente.resources
+P:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs2.resources
+P:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Form3.resources
+P:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmLogin.resources
+P:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmIngresso.resources
+P:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs.resources
+P:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmSplash2.resources
+P:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Grid.resources
+P:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Properties.Resources.resources
+P:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmUsuario0.resources
+P:\PC\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.read.1.tlog
+P:\PC\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.write.1.tlog
+P:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.GridFilme.resources
+P:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrofornecedor.resources
+P:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.dtvfornecedor.resources
+P:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Produtos.resources
+P:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosessoes.resources
+H:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.exe
+H:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.pdb
+H:\PC\AppCadastro\AppCadastro\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.AddFilme.resources
+H:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrofornecedor.resources
+H:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosalas.resources
+H:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosessoes.resources
+H:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmCliente.resources
+H:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs2.resources
+H:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Form3.resources
+H:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Produtos.resources
+H:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmLogin.resources
+H:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmIngresso.resources
+H:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs.resources
+H:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmSplash2.resources
+H:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Grid.resources
+H:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.GridFilme.resources
+H:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.dtvfornecedor.resources
+H:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Properties.Resources.resources
+H:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmUsuario0.resources
+H:\PC\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\PC\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\PC\AppCadastro\AppCadastro\bin\Debug\AppCadastro.exe
+H:\PC\AppCadastro\AppCadastro\bin\Debug\AppCadastro.pdb
+E:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.AddFilme.resources
+E:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrofornecedor.resources
+E:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosessoes.resources
+E:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Produtos.resources
+E:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.GridFilme.resources
+E:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.dtvfornecedor.resources
+J:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.AddFilme.resources
+J:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrofornecedor.resources
+J:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosalas.resources
+J:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosessoes.resources
+J:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Produtos.resources
+J:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.GridFilme.resources
+J:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.dtvfornecedor.resources
+J:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.cadastrofuncionario.resources
+K:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.exe
+K:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.pdb
+K:\PC\AppCadastro\AppCadastro\bin\Debug\AppCadastro.exe
+K:\PC\AppCadastro\AppCadastro\bin\Debug\AppCadastro.pdb
+K:\PC\AppCadastro\AppCadastro\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.AddFilme.resources
+K:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrofornecedor.resources
+K:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.cadastrofuncionario.resources
+K:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosalas.resources
+K:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosessoes.resources
+K:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmCliente.resources
+K:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs2.resources
+K:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Form3.resources
+K:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Produtos.resources
+K:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmLogin.resources
+K:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmIngresso.resources
+K:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs.resources
+K:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmSplash2.resources
+K:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Grid.resources
+K:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.GridFilme.resources
+K:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.dtvfornecedor.resources
+K:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Properties.Resources.resources
+K:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmUsuario0.resources
+K:\PC\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\PC\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.cadastrofuncionario.resources
+E:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.vendadeproduto.resources
+F:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.exe
+F:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.pdb
+F:\PC\AppCadastro\AppCadastro\bin\Debug\AppCadastro.exe
+F:\PC\AppCadastro\AppCadastro\bin\Debug\AppCadastro.pdb
+F:\PC\AppCadastro\AppCadastro\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.AddFilme.resources
+F:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrofornecedor.resources
+F:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.cadastrofuncionario.resources
+F:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosalas.resources
+F:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosessoes.resources
+F:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmCliente.resources
+F:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs2.resources
+F:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Form3.resources
+F:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Produtos.resources
+F:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmLogin.resources
+F:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmIngresso.resources
+F:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs.resources
+F:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmSplash2.resources
+F:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Grid.resources
+F:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.GridFilme.resources
+F:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.dtvfornecedor.resources
+F:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Properties.Resources.resources
+F:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmUsuario0.resources
+F:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.vendadeproduto.resources
+F:\PC\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\PC\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Contas.resources
+H:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.cadastrofuncionario.resources
+H:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Contas.resources
+H:\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.vendadeproduto.resources
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.exe
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.pdb
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\bin\Debug\AppCadastro.exe
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\bin\Debug\AppCadastro.pdb
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.AddFilme.resources
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrofornecedor.resources
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.cadastrofuncionario.resources
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosalas.resources
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosessoes.resources
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmCliente.resources
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Contas.resources
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs2.resources
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Form3.resources
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Produtos.resources
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmLogin.resources
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmIngresso.resources
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs.resources
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmSplash2.resources
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Grid.resources
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.GridFilme.resources
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.dtvfornecedor.resources
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Properties.Resources.resources
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmUsuario0.resources
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.vendadeproduto.resources
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TEMP.ETEHORT.022\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.exe
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.pdb
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\bin\Debug\AppCadastro.exe
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\bin\Debug\AppCadastro.pdb
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.AddFilme.resources
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrofornecedor.resources
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.cadastrofuncionario.resources
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosalas.resources
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosessoes.resources
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmCliente.resources
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Contas.resources
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs2.resources
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Form3.resources
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Produtos.resources
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmLogin.resources
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmIngresso.resources
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs.resources
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmSplash2.resources
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Grid.resources
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.GridFilme.resources
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.dtvfornecedor.resources
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Properties.Resources.resources
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmUsuario0.resources
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.vendadeproduto.resources
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TEMP.ETEHORT.000\Desktop\PC\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.exe
+E:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.pdb
+E:\PC bruno\AppCadastro\AppCadastro\bin\Debug\AppCadastro.exe
+E:\PC bruno\AppCadastro\AppCadastro\bin\Debug\AppCadastro.pdb
+E:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.AddFilme.resources
+E:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrofornecedor.resources
+E:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.cadastrofuncionario.resources
+E:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosalas.resources
+E:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosessoes.resources
+E:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmCliente.resources
+E:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Contas.resources
+E:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs2.resources
+E:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Form3.resources
+E:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Produtos.resources
+E:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmLogin.resources
+E:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmIngresso.resources
+E:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs.resources
+E:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmSplash2.resources
+E:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Grid.resources
+E:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.GridFilme.resources
+E:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.dtvfornecedor.resources
+E:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Properties.Resources.resources
+E:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmUsuario0.resources
+E:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.vendadeproduto.resources
+E:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.exe
+C:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.pdb
+C:\PC bruno\AppCadastro\AppCadastro\bin\Debug\AppCadastro.exe
+C:\PC bruno\AppCadastro\AppCadastro\bin\Debug\AppCadastro.pdb
+C:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.AddFilme.resources
+C:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrofornecedor.resources
+C:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.cadastrofuncionario.resources
+C:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosalas.resources
+C:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosessoes.resources
+C:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmCliente.resources
+C:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Contas.resources
+C:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs2.resources
+C:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Form3.resources
+C:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Produtos.resources
+C:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmLogin.resources
+C:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmIngresso.resources
+C:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs.resources
+C:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmSplash2.resources
+C:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Grid.resources
+C:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.GridFilme.resources
+C:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.dtvfornecedor.resources
+C:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Properties.Resources.resources
+C:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmUsuario0.resources
+C:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.vendadeproduto.resources
+C:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.exe
+F:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.pdb
+G:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.exe
+G:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.pdb
+G:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.AddFilme.resources
+G:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrofornecedor.resources
+G:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.cadastrofuncionario.resources
+G:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosalas.resources
+G:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosessoes.resources
+G:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmCliente.resources
+G:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Contas.resources
+G:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs2.resources
+G:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Form3.resources
+G:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Produtos.resources
+G:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmLogin.resources
+G:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmIngresso.resources
+G:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs.resources
+G:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmSplash2.resources
+G:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Grid.resources
+G:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.GridFilme.resources
+G:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.dtvfornecedor.resources
+G:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Properties.Resources.resources
+G:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmUsuario0.resources
+G:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.vendadeproduto.resources
+G:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.exe
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.pdb
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.AddFilme.resources
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrofornecedor.resources
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.cadastrofuncionario.resources
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosalas.resources
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosessoes.resources
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmCliente.resources
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Contas.resources
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs2.resources
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Form3.resources
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Produtos.resources
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmLogin.resources
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmIngresso.resources
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs.resources
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmSplash2.resources
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Grid.resources
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.GridFilme.resources
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.dtvfornecedor.resources
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmUsuario0.resources
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.vendadeproduto.resources
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\bin\Debug\AppCadastro.exe
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\bin\Debug\AppCadastro.pdb
+E:\LOGOS\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Properties.Resources.resources
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.exe
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.pdb
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.AddFilme.resources
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrofornecedor.resources
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.cadastrofuncionario.resources
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosalas.resources
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosessoes.resources
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmCliente.resources
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Contas.resources
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs2.resources
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Form3.resources
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Produtos.resources
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmLogin.resources
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmIngresso.resources
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs.resources
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmSplash2.resources
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Grid.resources
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.GridFilme.resources
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.dtvfornecedor.resources
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Gridsessao.resources
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Properties.Resources.resources
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmUsuario0.resources
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.vendadeproduto.resources
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\TED\PC bruno\AppCadastro\AppCadastro\bin\Debug\AppCadastro.exe
+K:\TED\PC bruno\AppCadastro\AppCadastro\bin\Debug\AppCadastro.pdb
+D:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.exe
+D:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.pdb
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.exe
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.pdb
+E:\TED\PC bruno\AppCadastro\AppCadastro\bin\Debug\AppCadastro.exe
+E:\TED\PC bruno\AppCadastro\AppCadastro\bin\Debug\AppCadastro.pdb
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.AddFilme.resources
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrofornecedor.resources
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.cadastrofuncionario.resources
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosalas.resources
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosessoes.resources
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmCliente.resources
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Contas.resources
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs2.resources
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Form3.resources
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Produtos.resources
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmLogin.resources
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmIngresso.resources
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs.resources
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmSplash2.resources
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Grid.resources
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.GridFilme.resources
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.dtvfornecedor.resources
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Gridsessao.resources
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Properties.Resources.resources
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmUsuario0.resources
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.vendadeproduto.resources
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.gridfuncionario.resources
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.exe
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.pdb
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.AddFilme.resources
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrofornecedor.resources
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.cadastrofuncionario.resources
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosalas.resources
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosessoes.resources
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmCliente.resources
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Contas.resources
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs2.resources
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Form3.resources
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Produtos.resources
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmLogin.resources
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmIngresso.resources
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs.resources
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmSplash2.resources
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Grid.resources
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.GridFilme.resources
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.dtvfornecedor.resources
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.gridfuncionario.resources
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Gridsessao.resources
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Properties.Resources.resources
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmUsuario0.resources
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.vendadeproduto.resources
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\TED\PC bruno\AppCadastro\AppCadastro\bin\Debug\AppCadastro.exe
+G:\TED\PC bruno\AppCadastro\AppCadastro\bin\Debug\AppCadastro.pdb
+G:\TED\PC bruno\AppCadastro\AppCadastro\bin\Debug\MySql.Data.dll
+G:\TED\PC bruno\AppCadastro\AppCadastro\bin\Debug\MySql.Data.Entity.dll
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.exe
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.pdb
+J:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.exe
+J:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.pdb
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.AddFilme.resources
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrofornecedor.resources
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.cadastrofuncionario.resources
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosalas.resources
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosessoes.resources
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.chave.resources
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmCliente.resources
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Contas.resources
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs2.resources
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Form3.resources
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Produtos.resources
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmIngresso.resources
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmLogin.resources
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs.resources
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmSplash2.resources
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Grid.resources
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.GridFilme.resources
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.dtvfornecedor.resources
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.gridfuncionario.resources
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Gridsessao.resources
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Properties.Resources.resources
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmUsuario0.resources
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.vendadeproduto.resources
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.exe
+C:\TED\PC bruno\AppCadastro\AppCadastro\bin\Debug\AppCadastro.exe
+C:\TED\PC bruno\AppCadastro\AppCadastro\bin\Debug\AppCadastro.pdb
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.AddFilme.resources
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrofornecedor.resources
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.cadastrofuncionario.resources
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosalas.resources
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosessoes.resources
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.chave.resources
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmCliente.resources
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Contas.resources
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs2.resources
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Form3.resources
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Produtos.resources
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmIngresso.resources
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmLogin.resources
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs.resources
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmSplash2.resources
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Grid.resources
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.GridFilme.resources
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.dtvfornecedor.resources
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.gridfuncionario.resources
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Gridsessao.resources
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Properties.Resources.resources
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmUsuario0.resources
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.vendadeproduto.resources
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.pdb
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\GenerateResource.read.3.tlog
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs3.resources
+C:\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs4.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.exe
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.pdb
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\bin\Debug\AppCadastro.exe
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\bin\Debug\AppCadastro.pdb
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.csprojResolveAssemblyReference.cache
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.AddFilme.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrofornecedor.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.cadastrofuncionario.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosalas.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosessoes.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.chave.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmCliente.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Contas.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs4.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs3.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs2.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Form3.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Produtos.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmIngresso.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmLogin.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmSplash2.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Grid.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.GridFilme.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.dtvfornecedor.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.gridfuncionario.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Gridsessao.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Properties.Resources.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmUsuario0.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.vendadeproduto.resources
+D:\backup hd\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.csproj.GenerateResource.Cache
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.csproj.AssemblyReference.cache
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.AddFilme.resources
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrofornecedor.resources
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.cadastrofuncionario.resources
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosalas.resources
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Cadastrosessoes.resources
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.chave.resources
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmCliente.resources
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Contas.resources
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs4.resources
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs3.resources
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs2.resources
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Form3.resources
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Produtos.resources
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmIngresso.resources
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmLogin.resources
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmMenucs.resources
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.FrmSplash2.resources
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Grid.resources
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.GridFilme.resources
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.dtvfornecedor.resources
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.gridfuncionario.resources
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.Gridsessao.resources
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.frmUsuario0.resources
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.vendadeproduto.resources
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.csproj.GenerateResource.cache
+C:\Users\guilherme.batista\Desktop\Pessoal\Curso\Programa Visual Studio\TED\PC bruno\AppCadastro\AppCadastro\obj\x86\Debug\AppCadastro.pdb

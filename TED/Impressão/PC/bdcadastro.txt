@@ -1,0 +1,181 @@
+# SQL-Front 5.1  (Build 4.16)
+
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE */;
+/*!40101 SET SQL_MODE='' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES */;
+/*!40103 SET SQL_NOTES='ON' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS */;
+/*!40014 SET FOREIGN_KEY_CHECKS=0 */;
+
+
+# Host: localhost    Database: bdcadastro
+# ------------------------------------------------------
+# Server version 5.5.16
+
+DROP DATABASE IF EXISTS `bdcadastro`;
+CREATE DATABASE `bdcadastro` /*!40100 DEFAULT CHARACTER SET latin1 */;
+USE `bdcadastro`;
+
+#
+# Source for table tblcliente
+#
+
+DROP TABLE IF EXISTS `tblcliente`;
+CREATE TABLE `tblcliente` (
+  `cod_cli` int(11) NOT NULL AUTO_INCREMENT,
+  `nome_cli` varchar(100) DEFAULT NULL,
+  `tel_cli` varchar(13) DEFAULT NULL,
+  `end_cli` varchar(100) DEFAULT NULL,
+  PRIMARY KEY (`cod_cli`)
+) ENGINE=InnoDB AUTO_INCREMENT=19 DEFAULT CHARSET=latin1;
+
+#
+# Dumping data for table tblcliente
+#
+
+LOCK TABLES `tblcliente` WRITE;
+/*!40000 ALTER TABLE `tblcliente` DISABLE KEYS */;
+INSERT INTO `tblcliente` VALUES (4,'Bruno ','vdfs','fdsfsdf');
+INSERT INTO `tblcliente` VALUES (11,'','','');
+INSERT INTO `tblcliente` VALUES (12,'','','');
+INSERT INTO `tblcliente` VALUES (13,'Bruno1','TELEFONE','eu moro aki');
+INSERT INTO `tblcliente` VALUES (15,'eu','','');
+INSERT INTO `tblcliente` VALUES (16,'brun','1','12321');
+INSERT INTO `tblcliente` VALUES (17,'23','','');
+INSERT INTO `tblcliente` VALUES (18,'','(  )    -','');
+/*!40000 ALTER TABLE `tblcliente` ENABLE KEYS */;
+UNLOCK TABLES;
+
+
+UNLOCK TABLES;
+
+#
+# Source for table tblusuario
+#
+
+DROP TABLE IF EXISTS `tblusuario`;
+CREATE TABLE `tblusuario` (
+  `usuario` varchar(15) NOT NULL,
+  `senha` varchar(15) DEFAULT NULL,
+  `AdmKey` int(1) DEFAULT '0',
+  PRIMARY KEY (`usuario`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+#
+# Dumping data for table tblusuario
+#
+
+LOCK TABLES `tblusuario` WRITE;
+/*!40000 ALTER TABLE `tblusuario` DISABLE KEYS */;
+INSERT INTO `tblusuario` VALUES ('1','62',0);
+INSERT INTO `tblusuario` VALUES ('abc','12',1);
+INSERT INTO `tblusuario` VALUES ('Bruno','121416',1);
+INSERT INTO `tblusuario` VALUES ('bruuno','12',0);
+INSERT INTO `tblusuario` VALUES ('Er','36',0);
+INSERT INTO `tblusuario` VALUES ('Erasmo','112114116',0);
+INSERT INTO `tblusuario` VALUES ('Guilherme','626364656667',1);
+INSERT INTO `tblusuario` VALUES ('jack','363771',1);
+INSERT INTO `tblusuario` VALUES ('oi','62',1);
+INSERT INTO `tblusuario` VALUES ('oi2','63',0);
+/*!40000 ALTER TABLE `tblusuario` ENABLE KEYS */;
+UNLOCK TABLES;
+
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+CREATE table tblsalas(
+codigo int(2) not null primary key AUTO_INCREMENT,
+ndesalas int (4) not null,
+ndelugares int(4) not null
+);
+
+
+
+CREATE table cadastrosalas(
+codigo int(2) not null primary key,
+ndesalas int (4) not null,
+ndelugares int(4) not null
+);
+
+create table tblingresso(
+filme varchar (40) not null PRIMARY key,
+horario datetime not null,
+preço decimal(12,2) not null,
+ndemeias int(4) not null,
+ndeinteiras int(4) not null,
+total decimal(12,2) not null,
+valorpago decimal (12,2) not null,
+troco decimal(12,2) not null,
+lugaresocupados int(4) not null,
+lugaresvagos int (4) not null
+
+);
+
+create table tblfilme(
+filme varchar(40) not null primary key,
+
+genero varchar(20) not null,
+preco decimal (12,2) not null
+
+);
+create table tblcadastrofornecedor (
+codigo int (4) not null primary key AUTO_INCREMENT,
+nome varchar (40) not null ,
+natureza varchar (20) not null,
+nomefantasia varchar(20) not null,
+cnpj varchar (18) not null,
+endereco varchar (40)  not null,
+cidade varchar (20) not null ,
+complemento varchar(20) not null,
+bairro varchar (30) not null,
+estado varchar (12) not null,
+cep varchar(9) not null,
+email varchar(40) not null,
+telefone1 varchar (10) not null,
+telefone2 varchar (10) null
+);
+create table tblcadastrosessoes (
+codigo int(2) not null primary key AUTO_INCREMENT,
+filme varchar (40) not null,
+horario varchar (6) not null ,
+d3 varchar (3) not null,
+sala int(3) not null
+);
+create table tblprodutos(
+codigo int(4) not null primary key AUTO_INCREMENT,
+produto varchar(40) not null,
+quantidade int(5) not null,
+valordecompra decimal(12,2) not null,
+valordevenda decimal(12,2) not null
+
+);
+create table tblfuncionario (
+codigo int(6) not null primary key AUTO_INCREMENT, 
+nome varchar (40) not null ,
+sexo varchar (20) not null,
+cpf varchar (20) not null,
+rg varchar(20) not null,
+estadocivil varchar(20) not null,
+endereco varchar(40) not null,
+cidade varchar (40) not null ,
+numero int(10) not null,
+complemento varchar(20) not null,
+bairro varchar(40) not null,
+estado varchar(40) not null,
+email varchar(40) not null,
+telefone1 varchar(12) not null,
+telefone2 varchar(12) not null
+);
+create table tblcontas (
+codigo int(6) not null primary key AUTO_INCREMENT,
+tipo varchar(20) not null,
+vencimento varchar(15) not null,
+pagamento varchar(15) not null,
+valor decimal(12,2) not null,
+credor varchar(40) not null,
+multa decimal(12,2) not null,
+descricao varchar(300) not null
+);
